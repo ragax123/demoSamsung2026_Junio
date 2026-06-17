@@ -23,3 +23,6 @@ st.line_chart(datos)
 nombre = st.text_input("¿Cuál es tu nombre?")
 if nombre:
     st.success(f"¡Mucho gusto, {nombre}!")
+
+
+##Solo probando cambios en la rama
